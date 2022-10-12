@@ -29,6 +29,18 @@
         vertical-align: middle;
     }
 
+    .navbar-brand {
+        justify-content: flex-start;
+    }
+
+    .navbar-toggler {
+        justify-content: flex-end;
+    }
+
+    #navbar-container {
+        flex-wrap: nowrap;
+    }
+
     .showcase .text{
         padding-left: 0%;
         padding-top: 25%;
@@ -143,7 +155,6 @@ img {
     font-size: 24px;
     font-weight: 700;
     color: var(--c-dark);
-    display: contents;
 }
 
 .navbar-brand img {
