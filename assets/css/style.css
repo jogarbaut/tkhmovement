@@ -466,12 +466,8 @@ footer ul {
 
 @media (max-width: 992px) {
     .navbar-brand img {
-        max-height: auto;
+        max-width: 30%;
         object-fit: contain;
-    }
-
-    .navbar-brand {
-        height: auto;
     }
 
     .showcase .text{
