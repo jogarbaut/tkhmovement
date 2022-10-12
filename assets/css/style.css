@@ -27,6 +27,7 @@
         height: 30px;
         object-fit: contain;
         vertical-align: middle;
+        justify-content: start;
     }
 
     .showcase .text{
