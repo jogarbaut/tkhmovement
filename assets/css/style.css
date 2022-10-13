@@ -484,7 +484,7 @@ footer ul {
 
 @media (max-width: 480px) {
     .navbar-brand img {
-        max-width: 70px;
+        max-width: 150px;
         object-fit: contain;
         margin: 0px;
     }
