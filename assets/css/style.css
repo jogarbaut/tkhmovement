@@ -489,11 +489,25 @@ footer ul {
         margin: 0px;
     }
 
-    .showcase .text{
+    .showcase .text {
         padding-left: 0%;
         padding-top: 0;
-        margin-top: 60vh;
-        font-size: .55rem;
+        margin-top: 40vh;
+        font-size: .5rem;
+    }
+
+    .showcase .text p {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .showcase .text #btn-showcase {
+        font-size: .45rem;
+        padding: 2.5%;
+    }
+
+    .showcase .text #disclaimer-text{
+        font-size: .4rem;
     }
 }
 }
