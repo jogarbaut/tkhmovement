@@ -492,8 +492,8 @@ footer ul {
     .showcase .text {
         padding-left: 0%;
         padding-top: 0;
-        margin-top: 40vh;
-        font-size: .5rem;
+        margin-top: 35vh;
+        font-size: .55rem;
     }
 
     .showcase .text p {
@@ -502,12 +502,12 @@ footer ul {
     }
 
     .showcase .text #btn-showcase {
-        font-size: .45rem;
+        font-size: .5rem;
         padding: 2.5%;
     }
 
     .showcase .text #disclaimer-text{
-        font-size: .4rem;
+        font-size: .45rem;
     }
 }
 }
