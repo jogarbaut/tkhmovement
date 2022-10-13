@@ -482,7 +482,7 @@ footer ul {
         overflow: scroll;
     }
 
-@media (max-width: 480px) {
+@media (max-width: 780px) {
     .navbar-brand img {
         max-width: 150px;
         object-fit: contain;
