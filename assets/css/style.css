@@ -465,11 +465,6 @@ footer ul {
 }
 
 @media (max-width: 992px) {
-    .navbar-brand img {
-        max-width: 30%;
-        object-fit: contain;
-    }
-
     .showcase .text{
         padding-left: 0%;
         padding-top: 25%;
@@ -486,4 +481,12 @@ footer ul {
         height: 200px;
         overflow: scroll;
     }
+
+@media (max-width: 480px) {
+    .navbar-brand img {
+        max-width: 70px;
+        object-fit: contain;
+        margin: 0px;
+    }
+}
 }
