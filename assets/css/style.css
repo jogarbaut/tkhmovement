@@ -362,8 +362,8 @@ img {
 
 /* Blog */
 iframe {
-    width: 85%;
-    height: auto;
+    width: 100%;
+    height: 100%;
 }
 
 /* Testimonials */
