@@ -489,11 +489,11 @@ footer ul {
 @media (max-width: 992px) {
   .home {
     align-items: start;
-    min-height: 55vh;
+    min-height: 50vh;
   }
 
   .showcase {
-    min-height: 55vh;
+    min-height: 50vh;
   }
 
   .showcase video {
